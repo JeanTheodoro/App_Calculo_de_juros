@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calculo de Juros</string>
+    <string name="opt">Escolha uma opção:</string>
+    <string name="opt_simples">Simples</string>
+    <string name="opt_composto">Composto</string>
+    <string name="et_valor">Valor:</string>
+    <string name="et_parcelas">Quantidade de parcelas:</string>
+    <string name="et_juros">Valor dos juros ao mês:</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="err_vazio">Não pode ter campos vazios.</string>
+
+    <string name="resp_juros">Juros sobre o valor:</string>
+    <string name="resp_total">Valor total:</string>
+    <string name="resp_parcela">Valor da parcela fixa:</string>
+    <string name="resp_total_juro">Valor total cobrado nos juros:</string>
+    <string name="message_erro">Informe os campos corretamente</string>
+</resources>
