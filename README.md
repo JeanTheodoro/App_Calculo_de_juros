@@ -2,7 +2,7 @@
 
 ## 📷 Demonstração
 
-![app_calculo_juros.gif](https://github.com/JeanTheodoro/App-Calculo-de-Juros/blob/master/app_calculo_juros.gif)
+![app_calculo_juros](https://github.com/JeanTheodoro/App_Calculo_de_juros/blob/master/app_calculo_juros.gif)
 
 ## 💻 Atividade desenvolvida:
 
